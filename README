@@ -1,0 +1,13 @@
+SimpleChat
+------
+
+Nothing to install, just open simpleChat/index.html!
+
+Originally, I started this simulation with AngularJS. 
+However, the requirements were very simple and I felt that
+Angular would be overkill, so here is vanilla JS + HTML5 + CSS (with Bootstrap)
+
+Thanks!
+
+Ken Downey
+kendowney.com@gmail.com
